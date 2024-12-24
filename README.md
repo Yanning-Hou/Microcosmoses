@@ -6,7 +6,7 @@ Microcosmoses is an interactive art installation featured in the digital art exh
 
 ## Project Information
 
-Location & Year: Shanghai, China (2019); Tokyo, Japan(2024); Hamburg, Germany(2025); Jeddah, Saudi Arabia (2026); Hamburg, Germany(2025)
+Location & Year: Shanghai, China (2019); Tokyo, Japan (2024); Hamburg, Germany (2025); Jeddah, Saudi Arabia (2026); Hamburg, Germany (2025)
 
 My role: *Computational Designer*
 
